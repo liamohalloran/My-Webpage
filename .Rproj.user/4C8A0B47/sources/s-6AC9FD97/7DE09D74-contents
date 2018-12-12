@@ -1,0 +1,20 @@
+---
+title: My First Post!!! Now where to start...
+author: Liam O'Halloran
+date: '2018-12-10'
+slug: my-first-post-now-where-to-start
+categories: []
+tags: []
+---
+
+
+# A Start
+I've been learning `R` and I can see its incredible usefulness in data analysis when using packages like `ggplot` & `dplyr` - but - how to display this. Its nice to display this on a report and I was so pleased to learn about Latex and how it can it be displayed with `Rmarkdown`
+
+Now onto the idea of creating a website. Displaying some reports I've created on a webpage distributed amongst colleagues would be a wow moment. Thats a longer term goal. I came across `R Blogdown` and was so pleased to see how easy it could be (and is) to create a webpage.  Seeing this and also seeing a couple videos creator influenced me to see the importance of creating a website to pen down ones ideas and thoughts. Its self analysis, reflection and personal development. Its opening up and receiving encouragment... well those are some early thoughts. Im writing this paragraph now which is self-reflection and somewhat liberating. Well Im only 10 minutes in so it may just initial excitment.
+So some ideas about about what to post about  
+
+* Tristan - my three year old son  
+
+* My many cycling trips
+* Films I've seen
