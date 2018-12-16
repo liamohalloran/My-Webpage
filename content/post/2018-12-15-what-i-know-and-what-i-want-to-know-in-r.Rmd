@@ -7,14 +7,14 @@ categories: []
 tags: []
 ---
 
-My brother told me about R. He googled Anaylst or highest paying programming languages. A few months before this he sent me a link to online course conducted by Dr Charles Serverence of University of Michagan. 
-I completed that course in two months but hardley felt on top of the subject matter. I learned the basics of the programming language and data strucutres, parsing, APIs, writing to a database, web scraping among other things. The course was interesting and I really enjoyed his cuts to classic interviews with the creators of web and programming languages. The cuts also to the meetups he conducted through the world were great also - it was really encouraging to see that in Milan a group of people who had been studying the same content as me were meeting the professor in person.
+My brother told me about `R`. He googled Anaylst or highest paying programming languages. A few months before this he sent me a link to an  online `Python` course conducted by Dr Charles Serverence of University of Michagan. 
+I completed that course in three months but hardley felt on top of the subject matter - I was only answering a few example questions. I learned the basics of the programming language and data strucutres, parsing, APIs, writing to a database, web scraping among other things. The course was interesting and I really enjoyed his cuts to classic interviews with the creators of web and programming languages. The cuts also to the meetups he conducted through the world were great also - it was really encouraging to see that in Milan a group of people who had been studying the same content as me were meeting the professor in person.
 Well thats some of the good stuff, but at the end of the course I was like how do I use this information? Me who wasn't too interested in programs or computer science and solving any problem that was of a difficult nature. 
 
 I was better at dealings with thr riguor of a 21 km run.
 One thing though is that I don't want to be an idiot, I was also unemployed. I'm looking at jobs thinking what qualification do I have? and even the jobs I was capable of being employed in didnt strick me as particular difficult. The management side and relations side perhaps. I've got to improve on getting my point across and to take risks but not be too worried about being challenged or feeling ridiculous. Thats a bit beside the point.
 
-`R` made more sense to me from day 1. I was doing some analyses and displaying some fancy graphs that couldn't be done on excel. Then I found about all these exciting packages. I've listed a few to remind me what I actually want to learn in `R`.
+`R` made more sense to me from day 1. I was doing some analysis and displaying some fancy graphs that couldn't be done on excel. Then I found about all these exciting packages. I've listed a few to remind me what I actually want to learn in `R`.
 
 * Ggplot
 * GGvis
@@ -23,7 +23,7 @@ One thing though is that I don't want to be an idiot, I was also unemployed. I'm
 * r markdown
 * shiny
 
-I want to be able to be able to do some amazing analysis. Plot it on amazing graphs (interactive sometimes), produced fancy reports, publish the analysis to a web page.  I dont feel like it is a stretch to learn above packages - perhaps to master them, but the quality and capacity of colleagues in my current workplace leades me to believe I will be outperforming them soon if I can stick at it.
+I want to be able to be able to do some amazing analysis. Plot it on amazing graphs (interactive sometimes), produce fancy reports, publish the analysis to a web page.  I dont feel like it is a stretch to learn above packages, perhaps to master them, but the quality and capacity of colleagues in my current workplace leades me to believe I will be outperforming them soon if I can stick at it.
 
 I don't know if I'm going about it the right way, but it feels pretty right. I don't want to be bitter about my situation so I know something has to be done. I'm avoiding study now instead writing my thoughts but it could provide stimulation to still study if I create a webpage.
 Right now I'm 
