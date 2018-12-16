@@ -1,10 +1,10 @@
 ---
-title: What I know and what I want to know in R
+title: "What I know and what I want to know in R"
 author: ''
 date: '2018-12-15'
 slug: what-i-know-and-what-i-want-to-know-in-r
-categories: []
 tags: []
+categories: []
 ---
 
 My brother told me about `R`. He googled Anaylst or highest paying programming languages. A few months before this he sent me a link to an  online `Python` course conducted by Dr Charles Serverence of University of Michagan. 

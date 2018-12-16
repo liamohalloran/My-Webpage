@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Liam&#39;s blogspot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What I know and what I want to know in R</title>
+      <link>/2018/12/15/what-i-know-and-what-i-want-to-know-in-r/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/15/what-i-know-and-what-i-want-to-know-in-r/</guid>
+      <description>My brother told me about R. He googled Anaylst or highest paying programming languages. A few months before this he sent me a link to an online Python course conducted by Dr Charles Serverence of University of Michagan. I completed that course in three months but hardley felt on top of the subject matter - I was only answering a few example questions. I learned the basics of the programming language and data strucutres, parsing, APIs, writing to a database, web scraping among other things.</description>
+    </item>
     
     <item>
       <title>My First Post!!! Now where to start...</title>
@@ -19,16 +28,6 @@
       <guid>/2018/12/10/my-first-post-now-where-to-start/</guid>
       <description>A StartI’ve been learning R and I can see its incredible usefulness in data analysis when using packages like ggplot &amp;amp; dplyr - but - how to display this. Its nice to display this on a report and I was so pleased to learn about Latex and how it can it be displayed with Rmarkdown
 Now onto the idea of creating a website. Displaying some reports I’ve created on a webpage distributed amongst colleagues would be a wow moment.</description>
-    </item>
-    
-    <item>
-      <title>My First Post!!! Now where to start...</title>
-      <link>/2018/12/10/my-first-post-now-where-to-start/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/12/10/my-first-post-now-where-to-start/</guid>
-      <description>A Start I&amp;rsquo;ve been learning R and I can see its incredible usefulness in data analysis when using packages like ggplot &amp;amp; dplyr - but - how to display this. Its nice to display this on a report and I was so pleased to learn about Latex and how it can it be displayed with Rmarkdown
-Now onto the idea of creating a website. Displaying some reports I&amp;rsquo;ve created on a webpage distributed amongst colleagues would be a wow moment.</description>
     </item>
     
     <item>
